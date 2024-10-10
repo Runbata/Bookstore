@@ -41,4 +41,5 @@ public class Client {
     public void setWishList(List<Book> wishList) {
         this.wishList = wishList;
     }
+
 }
